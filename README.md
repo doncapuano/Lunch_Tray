@@ -1,7 +1,7 @@
 Lunch Tray - Finished Project
 ==================================
 
-Starter code for the third independent project for Android Basics in Kotlin
+The third independent project for Android Basics in Kotlin
 
 Introduction
 ------------
